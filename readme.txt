@@ -24,7 +24,7 @@ Disables WordPress from generating image thumbnails when you upload a PDF. This 
 
 1) It makes uploading slower because WordPress has to generate several images after the file is uploaded.
 
-2) If your site hosts more than a few dozen PDFs, the image thumbnails will start taking up a notable amount of space in your uploads directory. One full-size thumbnail for a PDF can be as large at 4mb. If you have 25 PDFs on your site, that's 100mb of space. If you have limited disk space on your hosting account, this will bring you closer to hitting your limit. If you make regular backups, they'll start to become significantly larger.
+2) If your site hosts more than a few dozen PDFs, the image thumbnails will start taking up a notable amount of space in your uploads directory. One full-size thumbnail for a PDF can be as large as 4mb. If you have 25 PDFs on your site, that's 100mb of space. If you have limited disk space on your hosting account, this will bring you closer to hitting your limit. If you make regular backups, they'll start to become significantly larger.
 
 = How can I disable thumbnails for some PDF uploads but not others? =
 
