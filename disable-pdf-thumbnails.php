@@ -13,7 +13,7 @@ Author URI: https://www.makeworthymedia.com/
 License: GPL2
 */
 
-/*  Copyright 2010 Jennette Fulda  (email : contact@makeworthymedia.com)
+/*  Copyright 2017 Jennette Fulda  (email : contact@makeworthymedia.com)
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License, version 2, as 
@@ -34,6 +34,7 @@ if ( !defined('ABSPATH') )
 	die('-1');
 
 // Disables WordPress from generating thumbnail images when a PDF is uploaded
+// Code credit to http://www.wpbeginner.com/wp-tutorials/how-to-disable-pdf-thumbnail-previews-in-wordpress/
 function makeworthy_disable_pdf_thumbnails() {
 	$fallbacksizes = array(); 
 	return $fallbacksizes; 
