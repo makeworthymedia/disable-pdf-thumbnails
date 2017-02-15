@@ -4,7 +4,7 @@ Donate link: https://www.makeworthymedia.com/plugins/
 Tags: pdf,thumbnail,thumbnails,disable,image,images
 Requires at least: 4.7
 Tested up to: 4.7.2
-Stable tag: 1.0
+Stable tag: 1.2
 
 Disables WordPress from generating image thumbnails when you upload a PDF.
 

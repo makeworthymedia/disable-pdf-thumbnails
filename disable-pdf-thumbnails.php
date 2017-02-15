@@ -1,7 +1,7 @@
 <?php
 /**
  * @package Disable_PDF_Thumbnails
- * @version 1.0
+ * @version 1.2
  */
 /*
 Plugin Name: Disable PDF Thumbnails
