@@ -8,7 +8,7 @@ Plugin Name: Disable PDF Thumbnails
 Plugin URI: https://www.makeworthymedia.com/plugins/
 Description: Disables WordPress from generating image thumbnails when you upload a PDF.
 Author: Jennette Fulda
-Version: 1.0
+Version: 1.2
 Author URI: https://www.makeworthymedia.com/
 License: GPL2
 */
